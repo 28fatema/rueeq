@@ -217,7 +217,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-image: url( "../../../../Desktop/uni/3.2/328 web/Rueeq website/images/final2-01.jpg");
+    background-image: url( "../images/final2-01.jpg");
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -1218,7 +1218,7 @@ textarea#comment.massage-bt::placeholder {
     width: 100%;
     float: left;
     height: auto;
-    background-image: url(  "../../../../Desktop/uni/3.2/328 web/Rueeq website/images/footer-bg-01.jpg");
+    background-image: url(   "../images/footer-bg-01.jpg");
     background-size: 100% 100%;
     padding: 90px 0px 0px 0px;
 }
